@@ -1,1 +1,15 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+  div {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+  }
+
+  body {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+  }
